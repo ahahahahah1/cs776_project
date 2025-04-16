@@ -1,0 +1,3002 @@
+[
+    {
+        "original_image": "0828.png",
+        "noise_level": 0.1,
+        "noisy_image": "0828_noisy_0.1.png",
+        "denoised_image": "0828_denoised_0.1.png"
+    },
+    {
+        "original_image": "0828.png",
+        "noise_level": 0.15,
+        "noisy_image": "0828_noisy_0.15.png",
+        "denoised_image": "0828_denoised_0.15.png"
+    },
+    {
+        "original_image": "0828.png",
+        "noise_level": 0.2,
+        "noisy_image": "0828_noisy_0.2.png",
+        "denoised_image": "0828_denoised_0.2.png"
+    },
+    {
+        "original_image": "0828.png",
+        "noise_level": 0.3,
+        "noisy_image": "0828_noisy_0.3.png",
+        "denoised_image": "0828_denoised_0.3.png"
+    },
+    {
+        "original_image": "0828.png",
+        "noise_level": 0.4,
+        "noisy_image": "0828_noisy_0.4.png",
+        "denoised_image": "0828_denoised_0.4.png"
+    },
+    {
+        "original_image": "0897.png",
+        "noise_level": 0.1,
+        "noisy_image": "0897_noisy_0.1.png",
+        "denoised_image": "0897_denoised_0.1.png"
+    },
+    {
+        "original_image": "0897.png",
+        "noise_level": 0.15,
+        "noisy_image": "0897_noisy_0.15.png",
+        "denoised_image": "0897_denoised_0.15.png"
+    },
+    {
+        "original_image": "0897.png",
+        "noise_level": 0.2,
+        "noisy_image": "0897_noisy_0.2.png",
+        "denoised_image": "0897_denoised_0.2.png"
+    },
+    {
+        "original_image": "0897.png",
+        "noise_level": 0.3,
+        "noisy_image": "0897_noisy_0.3.png",
+        "denoised_image": "0897_denoised_0.3.png"
+    },
+    {
+        "original_image": "0897.png",
+        "noise_level": 0.4,
+        "noisy_image": "0897_noisy_0.4.png",
+        "denoised_image": "0897_denoised_0.4.png"
+    },
+    {
+        "original_image": "0895.png",
+        "noise_level": 0.1,
+        "noisy_image": "0895_noisy_0.1.png",
+        "denoised_image": "0895_denoised_0.1.png"
+    },
+    {
+        "original_image": "0895.png",
+        "noise_level": 0.15,
+        "noisy_image": "0895_noisy_0.15.png",
+        "denoised_image": "0895_denoised_0.15.png"
+    },
+    {
+        "original_image": "0895.png",
+        "noise_level": 0.2,
+        "noisy_image": "0895_noisy_0.2.png",
+        "denoised_image": "0895_denoised_0.2.png"
+    },
+    {
+        "original_image": "0895.png",
+        "noise_level": 0.3,
+        "noisy_image": "0895_noisy_0.3.png",
+        "denoised_image": "0895_denoised_0.3.png"
+    },
+    {
+        "original_image": "0895.png",
+        "noise_level": 0.4,
+        "noisy_image": "0895_noisy_0.4.png",
+        "denoised_image": "0895_denoised_0.4.png"
+    },
+    {
+        "original_image": "0863.png",
+        "noise_level": 0.1,
+        "noisy_image": "0863_noisy_0.1.png",
+        "denoised_image": "0863_denoised_0.1.png"
+    },
+    {
+        "original_image": "0863.png",
+        "noise_level": 0.15,
+        "noisy_image": "0863_noisy_0.15.png",
+        "denoised_image": "0863_denoised_0.15.png"
+    },
+    {
+        "original_image": "0863.png",
+        "noise_level": 0.2,
+        "noisy_image": "0863_noisy_0.2.png",
+        "denoised_image": "0863_denoised_0.2.png"
+    },
+    {
+        "original_image": "0863.png",
+        "noise_level": 0.3,
+        "noisy_image": "0863_noisy_0.3.png",
+        "denoised_image": "0863_denoised_0.3.png"
+    },
+    {
+        "original_image": "0863.png",
+        "noise_level": 0.4,
+        "noisy_image": "0863_noisy_0.4.png",
+        "denoised_image": "0863_denoised_0.4.png"
+    },
+    {
+        "original_image": "0891.png",
+        "noise_level": 0.1,
+        "noisy_image": "0891_noisy_0.1.png",
+        "denoised_image": "0891_denoised_0.1.png"
+    },
+    {
+        "original_image": "0891.png",
+        "noise_level": 0.15,
+        "noisy_image": "0891_noisy_0.15.png",
+        "denoised_image": "0891_denoised_0.15.png"
+    },
+    {
+        "original_image": "0891.png",
+        "noise_level": 0.2,
+        "noisy_image": "0891_noisy_0.2.png",
+        "denoised_image": "0891_denoised_0.2.png"
+    },
+    {
+        "original_image": "0891.png",
+        "noise_level": 0.3,
+        "noisy_image": "0891_noisy_0.3.png",
+        "denoised_image": "0891_denoised_0.3.png"
+    },
+    {
+        "original_image": "0891.png",
+        "noise_level": 0.4,
+        "noisy_image": "0891_noisy_0.4.png",
+        "denoised_image": "0891_denoised_0.4.png"
+    },
+    {
+        "original_image": "0866.png",
+        "noise_level": 0.1,
+        "noisy_image": "0866_noisy_0.1.png",
+        "denoised_image": "0866_denoised_0.1.png"
+    },
+    {
+        "original_image": "0866.png",
+        "noise_level": 0.15,
+        "noisy_image": "0866_noisy_0.15.png",
+        "denoised_image": "0866_denoised_0.15.png"
+    },
+    {
+        "original_image": "0866.png",
+        "noise_level": 0.2,
+        "noisy_image": "0866_noisy_0.2.png",
+        "denoised_image": "0866_denoised_0.2.png"
+    },
+    {
+        "original_image": "0866.png",
+        "noise_level": 0.3,
+        "noisy_image": "0866_noisy_0.3.png",
+        "denoised_image": "0866_denoised_0.3.png"
+    },
+    {
+        "original_image": "0866.png",
+        "noise_level": 0.4,
+        "noisy_image": "0866_noisy_0.4.png",
+        "denoised_image": "0866_denoised_0.4.png"
+    },
+    {
+        "original_image": "0858.png",
+        "noise_level": 0.1,
+        "noisy_image": "0858_noisy_0.1.png",
+        "denoised_image": "0858_denoised_0.1.png"
+    },
+    {
+        "original_image": "0858.png",
+        "noise_level": 0.15,
+        "noisy_image": "0858_noisy_0.15.png",
+        "denoised_image": "0858_denoised_0.15.png"
+    },
+    {
+        "original_image": "0858.png",
+        "noise_level": 0.2,
+        "noisy_image": "0858_noisy_0.2.png",
+        "denoised_image": "0858_denoised_0.2.png"
+    },
+    {
+        "original_image": "0858.png",
+        "noise_level": 0.3,
+        "noisy_image": "0858_noisy_0.3.png",
+        "denoised_image": "0858_denoised_0.3.png"
+    },
+    {
+        "original_image": "0858.png",
+        "noise_level": 0.4,
+        "noisy_image": "0858_noisy_0.4.png",
+        "denoised_image": "0858_denoised_0.4.png"
+    },
+    {
+        "original_image": "0898.png",
+        "noise_level": 0.1,
+        "noisy_image": "0898_noisy_0.1.png",
+        "denoised_image": "0898_denoised_0.1.png"
+    },
+    {
+        "original_image": "0898.png",
+        "noise_level": 0.15,
+        "noisy_image": "0898_noisy_0.15.png",
+        "denoised_image": "0898_denoised_0.15.png"
+    },
+    {
+        "original_image": "0898.png",
+        "noise_level": 0.2,
+        "noisy_image": "0898_noisy_0.2.png",
+        "denoised_image": "0898_denoised_0.2.png"
+    },
+    {
+        "original_image": "0898.png",
+        "noise_level": 0.3,
+        "noisy_image": "0898_noisy_0.3.png",
+        "denoised_image": "0898_denoised_0.3.png"
+    },
+    {
+        "original_image": "0898.png",
+        "noise_level": 0.4,
+        "noisy_image": "0898_noisy_0.4.png",
+        "denoised_image": "0898_denoised_0.4.png"
+    },
+    {
+        "original_image": "0811.png",
+        "noise_level": 0.1,
+        "noisy_image": "0811_noisy_0.1.png",
+        "denoised_image": "0811_denoised_0.1.png"
+    },
+    {
+        "original_image": "0811.png",
+        "noise_level": 0.15,
+        "noisy_image": "0811_noisy_0.15.png",
+        "denoised_image": "0811_denoised_0.15.png"
+    },
+    {
+        "original_image": "0811.png",
+        "noise_level": 0.2,
+        "noisy_image": "0811_noisy_0.2.png",
+        "denoised_image": "0811_denoised_0.2.png"
+    },
+    {
+        "original_image": "0811.png",
+        "noise_level": 0.3,
+        "noisy_image": "0811_noisy_0.3.png",
+        "denoised_image": "0811_denoised_0.3.png"
+    },
+    {
+        "original_image": "0811.png",
+        "noise_level": 0.4,
+        "noisy_image": "0811_noisy_0.4.png",
+        "denoised_image": "0811_denoised_0.4.png"
+    },
+    {
+        "original_image": "0807.png",
+        "noise_level": 0.1,
+        "noisy_image": "0807_noisy_0.1.png",
+        "denoised_image": "0807_denoised_0.1.png"
+    },
+    {
+        "original_image": "0807.png",
+        "noise_level": 0.15,
+        "noisy_image": "0807_noisy_0.15.png",
+        "denoised_image": "0807_denoised_0.15.png"
+    },
+    {
+        "original_image": "0807.png",
+        "noise_level": 0.2,
+        "noisy_image": "0807_noisy_0.2.png",
+        "denoised_image": "0807_denoised_0.2.png"
+    },
+    {
+        "original_image": "0807.png",
+        "noise_level": 0.3,
+        "noisy_image": "0807_noisy_0.3.png",
+        "denoised_image": "0807_denoised_0.3.png"
+    },
+    {
+        "original_image": "0807.png",
+        "noise_level": 0.4,
+        "noisy_image": "0807_noisy_0.4.png",
+        "denoised_image": "0807_denoised_0.4.png"
+    },
+    {
+        "original_image": "0839.png",
+        "noise_level": 0.1,
+        "noisy_image": "0839_noisy_0.1.png",
+        "denoised_image": "0839_denoised_0.1.png"
+    },
+    {
+        "original_image": "0839.png",
+        "noise_level": 0.15,
+        "noisy_image": "0839_noisy_0.15.png",
+        "denoised_image": "0839_denoised_0.15.png"
+    },
+    {
+        "original_image": "0839.png",
+        "noise_level": 0.2,
+        "noisy_image": "0839_noisy_0.2.png",
+        "denoised_image": "0839_denoised_0.2.png"
+    },
+    {
+        "original_image": "0839.png",
+        "noise_level": 0.3,
+        "noisy_image": "0839_noisy_0.3.png",
+        "denoised_image": "0839_denoised_0.3.png"
+    },
+    {
+        "original_image": "0839.png",
+        "noise_level": 0.4,
+        "noisy_image": "0839_noisy_0.4.png",
+        "denoised_image": "0839_denoised_0.4.png"
+    },
+    {
+        "original_image": "0818.png",
+        "noise_level": 0.1,
+        "noisy_image": "0818_noisy_0.1.png",
+        "denoised_image": "0818_denoised_0.1.png"
+    },
+    {
+        "original_image": "0818.png",
+        "noise_level": 0.15,
+        "noisy_image": "0818_noisy_0.15.png",
+        "denoised_image": "0818_denoised_0.15.png"
+    },
+    {
+        "original_image": "0818.png",
+        "noise_level": 0.2,
+        "noisy_image": "0818_noisy_0.2.png",
+        "denoised_image": "0818_denoised_0.2.png"
+    },
+    {
+        "original_image": "0818.png",
+        "noise_level": 0.3,
+        "noisy_image": "0818_noisy_0.3.png",
+        "denoised_image": "0818_denoised_0.3.png"
+    },
+    {
+        "original_image": "0818.png",
+        "noise_level": 0.4,
+        "noisy_image": "0818_noisy_0.4.png",
+        "denoised_image": "0818_denoised_0.4.png"
+    },
+    {
+        "original_image": "0852.png",
+        "noise_level": 0.1,
+        "noisy_image": "0852_noisy_0.1.png",
+        "denoised_image": "0852_denoised_0.1.png"
+    },
+    {
+        "original_image": "0852.png",
+        "noise_level": 0.15,
+        "noisy_image": "0852_noisy_0.15.png",
+        "denoised_image": "0852_denoised_0.15.png"
+    },
+    {
+        "original_image": "0852.png",
+        "noise_level": 0.2,
+        "noisy_image": "0852_noisy_0.2.png",
+        "denoised_image": "0852_denoised_0.2.png"
+    },
+    {
+        "original_image": "0852.png",
+        "noise_level": 0.3,
+        "noisy_image": "0852_noisy_0.3.png",
+        "denoised_image": "0852_denoised_0.3.png"
+    },
+    {
+        "original_image": "0852.png",
+        "noise_level": 0.4,
+        "noisy_image": "0852_noisy_0.4.png",
+        "denoised_image": "0852_denoised_0.4.png"
+    },
+    {
+        "original_image": "0884.png",
+        "noise_level": 0.1,
+        "noisy_image": "0884_noisy_0.1.png",
+        "denoised_image": "0884_denoised_0.1.png"
+    },
+    {
+        "original_image": "0884.png",
+        "noise_level": 0.15,
+        "noisy_image": "0884_noisy_0.15.png",
+        "denoised_image": "0884_denoised_0.15.png"
+    },
+    {
+        "original_image": "0884.png",
+        "noise_level": 0.2,
+        "noisy_image": "0884_noisy_0.2.png",
+        "denoised_image": "0884_denoised_0.2.png"
+    },
+    {
+        "original_image": "0884.png",
+        "noise_level": 0.3,
+        "noisy_image": "0884_noisy_0.3.png",
+        "denoised_image": "0884_denoised_0.3.png"
+    },
+    {
+        "original_image": "0884.png",
+        "noise_level": 0.4,
+        "noisy_image": "0884_noisy_0.4.png",
+        "denoised_image": "0884_denoised_0.4.png"
+    },
+    {
+        "original_image": "0887.png",
+        "noise_level": 0.1,
+        "noisy_image": "0887_noisy_0.1.png",
+        "denoised_image": "0887_denoised_0.1.png"
+    },
+    {
+        "original_image": "0887.png",
+        "noise_level": 0.15,
+        "noisy_image": "0887_noisy_0.15.png",
+        "denoised_image": "0887_denoised_0.15.png"
+    },
+    {
+        "original_image": "0887.png",
+        "noise_level": 0.2,
+        "noisy_image": "0887_noisy_0.2.png",
+        "denoised_image": "0887_denoised_0.2.png"
+    },
+    {
+        "original_image": "0887.png",
+        "noise_level": 0.3,
+        "noisy_image": "0887_noisy_0.3.png",
+        "denoised_image": "0887_denoised_0.3.png"
+    },
+    {
+        "original_image": "0887.png",
+        "noise_level": 0.4,
+        "noisy_image": "0887_noisy_0.4.png",
+        "denoised_image": "0887_denoised_0.4.png"
+    },
+    {
+        "original_image": "0809.png",
+        "noise_level": 0.1,
+        "noisy_image": "0809_noisy_0.1.png",
+        "denoised_image": "0809_denoised_0.1.png"
+    },
+    {
+        "original_image": "0809.png",
+        "noise_level": 0.15,
+        "noisy_image": "0809_noisy_0.15.png",
+        "denoised_image": "0809_denoised_0.15.png"
+    },
+    {
+        "original_image": "0809.png",
+        "noise_level": 0.2,
+        "noisy_image": "0809_noisy_0.2.png",
+        "denoised_image": "0809_denoised_0.2.png"
+    },
+    {
+        "original_image": "0809.png",
+        "noise_level": 0.3,
+        "noisy_image": "0809_noisy_0.3.png",
+        "denoised_image": "0809_denoised_0.3.png"
+    },
+    {
+        "original_image": "0809.png",
+        "noise_level": 0.4,
+        "noisy_image": "0809_noisy_0.4.png",
+        "denoised_image": "0809_denoised_0.4.png"
+    },
+    {
+        "original_image": "0817.png",
+        "noise_level": 0.1,
+        "noisy_image": "0817_noisy_0.1.png",
+        "denoised_image": "0817_denoised_0.1.png"
+    },
+    {
+        "original_image": "0817.png",
+        "noise_level": 0.15,
+        "noisy_image": "0817_noisy_0.15.png",
+        "denoised_image": "0817_denoised_0.15.png"
+    },
+    {
+        "original_image": "0817.png",
+        "noise_level": 0.2,
+        "noisy_image": "0817_noisy_0.2.png",
+        "denoised_image": "0817_denoised_0.2.png"
+    },
+    {
+        "original_image": "0817.png",
+        "noise_level": 0.3,
+        "noisy_image": "0817_noisy_0.3.png",
+        "denoised_image": "0817_denoised_0.3.png"
+    },
+    {
+        "original_image": "0817.png",
+        "noise_level": 0.4,
+        "noisy_image": "0817_noisy_0.4.png",
+        "denoised_image": "0817_denoised_0.4.png"
+    },
+    {
+        "original_image": "0876.png",
+        "noise_level": 0.1,
+        "noisy_image": "0876_noisy_0.1.png",
+        "denoised_image": "0876_denoised_0.1.png"
+    },
+    {
+        "original_image": "0876.png",
+        "noise_level": 0.15,
+        "noisy_image": "0876_noisy_0.15.png",
+        "denoised_image": "0876_denoised_0.15.png"
+    },
+    {
+        "original_image": "0876.png",
+        "noise_level": 0.2,
+        "noisy_image": "0876_noisy_0.2.png",
+        "denoised_image": "0876_denoised_0.2.png"
+    },
+    {
+        "original_image": "0876.png",
+        "noise_level": 0.3,
+        "noisy_image": "0876_noisy_0.3.png",
+        "denoised_image": "0876_denoised_0.3.png"
+    },
+    {
+        "original_image": "0876.png",
+        "noise_level": 0.4,
+        "noisy_image": "0876_noisy_0.4.png",
+        "denoised_image": "0876_denoised_0.4.png"
+    },
+    {
+        "original_image": "0819.png",
+        "noise_level": 0.1,
+        "noisy_image": "0819_noisy_0.1.png",
+        "denoised_image": "0819_denoised_0.1.png"
+    },
+    {
+        "original_image": "0819.png",
+        "noise_level": 0.15,
+        "noisy_image": "0819_noisy_0.15.png",
+        "denoised_image": "0819_denoised_0.15.png"
+    },
+    {
+        "original_image": "0819.png",
+        "noise_level": 0.2,
+        "noisy_image": "0819_noisy_0.2.png",
+        "denoised_image": "0819_denoised_0.2.png"
+    },
+    {
+        "original_image": "0819.png",
+        "noise_level": 0.3,
+        "noisy_image": "0819_noisy_0.3.png",
+        "denoised_image": "0819_denoised_0.3.png"
+    },
+    {
+        "original_image": "0819.png",
+        "noise_level": 0.4,
+        "noisy_image": "0819_noisy_0.4.png",
+        "denoised_image": "0819_denoised_0.4.png"
+    },
+    {
+        "original_image": "0827.png",
+        "noise_level": 0.1,
+        "noisy_image": "0827_noisy_0.1.png",
+        "denoised_image": "0827_denoised_0.1.png"
+    },
+    {
+        "original_image": "0827.png",
+        "noise_level": 0.15,
+        "noisy_image": "0827_noisy_0.15.png",
+        "denoised_image": "0827_denoised_0.15.png"
+    },
+    {
+        "original_image": "0827.png",
+        "noise_level": 0.2,
+        "noisy_image": "0827_noisy_0.2.png",
+        "denoised_image": "0827_denoised_0.2.png"
+    },
+    {
+        "original_image": "0827.png",
+        "noise_level": 0.3,
+        "noisy_image": "0827_noisy_0.3.png",
+        "denoised_image": "0827_denoised_0.3.png"
+    },
+    {
+        "original_image": "0827.png",
+        "noise_level": 0.4,
+        "noisy_image": "0827_noisy_0.4.png",
+        "denoised_image": "0827_denoised_0.4.png"
+    },
+    {
+        "original_image": "0813.png",
+        "noise_level": 0.1,
+        "noisy_image": "0813_noisy_0.1.png",
+        "denoised_image": "0813_denoised_0.1.png"
+    },
+    {
+        "original_image": "0813.png",
+        "noise_level": 0.15,
+        "noisy_image": "0813_noisy_0.15.png",
+        "denoised_image": "0813_denoised_0.15.png"
+    },
+    {
+        "original_image": "0813.png",
+        "noise_level": 0.2,
+        "noisy_image": "0813_noisy_0.2.png",
+        "denoised_image": "0813_denoised_0.2.png"
+    },
+    {
+        "original_image": "0813.png",
+        "noise_level": 0.3,
+        "noisy_image": "0813_noisy_0.3.png",
+        "denoised_image": "0813_denoised_0.3.png"
+    },
+    {
+        "original_image": "0813.png",
+        "noise_level": 0.4,
+        "noisy_image": "0813_noisy_0.4.png",
+        "denoised_image": "0813_denoised_0.4.png"
+    },
+    {
+        "original_image": "0815.png",
+        "noise_level": 0.1,
+        "noisy_image": "0815_noisy_0.1.png",
+        "denoised_image": "0815_denoised_0.1.png"
+    },
+    {
+        "original_image": "0815.png",
+        "noise_level": 0.15,
+        "noisy_image": "0815_noisy_0.15.png",
+        "denoised_image": "0815_denoised_0.15.png"
+    },
+    {
+        "original_image": "0815.png",
+        "noise_level": 0.2,
+        "noisy_image": "0815_noisy_0.2.png",
+        "denoised_image": "0815_denoised_0.2.png"
+    },
+    {
+        "original_image": "0815.png",
+        "noise_level": 0.3,
+        "noisy_image": "0815_noisy_0.3.png",
+        "denoised_image": "0815_denoised_0.3.png"
+    },
+    {
+        "original_image": "0815.png",
+        "noise_level": 0.4,
+        "noisy_image": "0815_noisy_0.4.png",
+        "denoised_image": "0815_denoised_0.4.png"
+    },
+    {
+        "original_image": "0830.png",
+        "noise_level": 0.1,
+        "noisy_image": "0830_noisy_0.1.png",
+        "denoised_image": "0830_denoised_0.1.png"
+    },
+    {
+        "original_image": "0830.png",
+        "noise_level": 0.15,
+        "noisy_image": "0830_noisy_0.15.png",
+        "denoised_image": "0830_denoised_0.15.png"
+    },
+    {
+        "original_image": "0830.png",
+        "noise_level": 0.2,
+        "noisy_image": "0830_noisy_0.2.png",
+        "denoised_image": "0830_denoised_0.2.png"
+    },
+    {
+        "original_image": "0830.png",
+        "noise_level": 0.3,
+        "noisy_image": "0830_noisy_0.3.png",
+        "denoised_image": "0830_denoised_0.3.png"
+    },
+    {
+        "original_image": "0830.png",
+        "noise_level": 0.4,
+        "noisy_image": "0830_noisy_0.4.png",
+        "denoised_image": "0830_denoised_0.4.png"
+    },
+    {
+        "original_image": "0847.png",
+        "noise_level": 0.1,
+        "noisy_image": "0847_noisy_0.1.png",
+        "denoised_image": "0847_denoised_0.1.png"
+    },
+    {
+        "original_image": "0847.png",
+        "noise_level": 0.15,
+        "noisy_image": "0847_noisy_0.15.png",
+        "denoised_image": "0847_denoised_0.15.png"
+    },
+    {
+        "original_image": "0847.png",
+        "noise_level": 0.2,
+        "noisy_image": "0847_noisy_0.2.png",
+        "denoised_image": "0847_denoised_0.2.png"
+    },
+    {
+        "original_image": "0847.png",
+        "noise_level": 0.3,
+        "noisy_image": "0847_noisy_0.3.png",
+        "denoised_image": "0847_denoised_0.3.png"
+    },
+    {
+        "original_image": "0847.png",
+        "noise_level": 0.4,
+        "noisy_image": "0847_noisy_0.4.png",
+        "denoised_image": "0847_denoised_0.4.png"
+    },
+    {
+        "original_image": "0826.png",
+        "noise_level": 0.1,
+        "noisy_image": "0826_noisy_0.1.png",
+        "denoised_image": "0826_denoised_0.1.png"
+    },
+    {
+        "original_image": "0826.png",
+        "noise_level": 0.15,
+        "noisy_image": "0826_noisy_0.15.png",
+        "denoised_image": "0826_denoised_0.15.png"
+    },
+    {
+        "original_image": "0826.png",
+        "noise_level": 0.2,
+        "noisy_image": "0826_noisy_0.2.png",
+        "denoised_image": "0826_denoised_0.2.png"
+    },
+    {
+        "original_image": "0826.png",
+        "noise_level": 0.3,
+        "noisy_image": "0826_noisy_0.3.png",
+        "denoised_image": "0826_denoised_0.3.png"
+    },
+    {
+        "original_image": "0826.png",
+        "noise_level": 0.4,
+        "noisy_image": "0826_noisy_0.4.png",
+        "denoised_image": "0826_denoised_0.4.png"
+    },
+    {
+        "original_image": "0821.png",
+        "noise_level": 0.1,
+        "noisy_image": "0821_noisy_0.1.png",
+        "denoised_image": "0821_denoised_0.1.png"
+    },
+    {
+        "original_image": "0821.png",
+        "noise_level": 0.15,
+        "noisy_image": "0821_noisy_0.15.png",
+        "denoised_image": "0821_denoised_0.15.png"
+    },
+    {
+        "original_image": "0821.png",
+        "noise_level": 0.2,
+        "noisy_image": "0821_noisy_0.2.png",
+        "denoised_image": "0821_denoised_0.2.png"
+    },
+    {
+        "original_image": "0821.png",
+        "noise_level": 0.3,
+        "noisy_image": "0821_noisy_0.3.png",
+        "denoised_image": "0821_denoised_0.3.png"
+    },
+    {
+        "original_image": "0821.png",
+        "noise_level": 0.4,
+        "noisy_image": "0821_noisy_0.4.png",
+        "denoised_image": "0821_denoised_0.4.png"
+    },
+    {
+        "original_image": "0889.png",
+        "noise_level": 0.1,
+        "noisy_image": "0889_noisy_0.1.png",
+        "denoised_image": "0889_denoised_0.1.png"
+    },
+    {
+        "original_image": "0889.png",
+        "noise_level": 0.15,
+        "noisy_image": "0889_noisy_0.15.png",
+        "denoised_image": "0889_denoised_0.15.png"
+    },
+    {
+        "original_image": "0889.png",
+        "noise_level": 0.2,
+        "noisy_image": "0889_noisy_0.2.png",
+        "denoised_image": "0889_denoised_0.2.png"
+    },
+    {
+        "original_image": "0889.png",
+        "noise_level": 0.3,
+        "noisy_image": "0889_noisy_0.3.png",
+        "denoised_image": "0889_denoised_0.3.png"
+    },
+    {
+        "original_image": "0889.png",
+        "noise_level": 0.4,
+        "noisy_image": "0889_noisy_0.4.png",
+        "denoised_image": "0889_denoised_0.4.png"
+    },
+    {
+        "original_image": "0894.png",
+        "noise_level": 0.1,
+        "noisy_image": "0894_noisy_0.1.png",
+        "denoised_image": "0894_denoised_0.1.png"
+    },
+    {
+        "original_image": "0894.png",
+        "noise_level": 0.15,
+        "noisy_image": "0894_noisy_0.15.png",
+        "denoised_image": "0894_denoised_0.15.png"
+    },
+    {
+        "original_image": "0894.png",
+        "noise_level": 0.2,
+        "noisy_image": "0894_noisy_0.2.png",
+        "denoised_image": "0894_denoised_0.2.png"
+    },
+    {
+        "original_image": "0894.png",
+        "noise_level": 0.3,
+        "noisy_image": "0894_noisy_0.3.png",
+        "denoised_image": "0894_denoised_0.3.png"
+    },
+    {
+        "original_image": "0894.png",
+        "noise_level": 0.4,
+        "noisy_image": "0894_noisy_0.4.png",
+        "denoised_image": "0894_denoised_0.4.png"
+    },
+    {
+        "original_image": "0874.png",
+        "noise_level": 0.1,
+        "noisy_image": "0874_noisy_0.1.png",
+        "denoised_image": "0874_denoised_0.1.png"
+    },
+    {
+        "original_image": "0874.png",
+        "noise_level": 0.15,
+        "noisy_image": "0874_noisy_0.15.png",
+        "denoised_image": "0874_denoised_0.15.png"
+    },
+    {
+        "original_image": "0874.png",
+        "noise_level": 0.2,
+        "noisy_image": "0874_noisy_0.2.png",
+        "denoised_image": "0874_denoised_0.2.png"
+    },
+    {
+        "original_image": "0874.png",
+        "noise_level": 0.3,
+        "noisy_image": "0874_noisy_0.3.png",
+        "denoised_image": "0874_denoised_0.3.png"
+    },
+    {
+        "original_image": "0874.png",
+        "noise_level": 0.4,
+        "noisy_image": "0874_noisy_0.4.png",
+        "denoised_image": "0874_denoised_0.4.png"
+    },
+    {
+        "original_image": "0831.png",
+        "noise_level": 0.1,
+        "noisy_image": "0831_noisy_0.1.png",
+        "denoised_image": "0831_denoised_0.1.png"
+    },
+    {
+        "original_image": "0831.png",
+        "noise_level": 0.15,
+        "noisy_image": "0831_noisy_0.15.png",
+        "denoised_image": "0831_denoised_0.15.png"
+    },
+    {
+        "original_image": "0831.png",
+        "noise_level": 0.2,
+        "noisy_image": "0831_noisy_0.2.png",
+        "denoised_image": "0831_denoised_0.2.png"
+    },
+    {
+        "original_image": "0831.png",
+        "noise_level": 0.3,
+        "noisy_image": "0831_noisy_0.3.png",
+        "denoised_image": "0831_denoised_0.3.png"
+    },
+    {
+        "original_image": "0831.png",
+        "noise_level": 0.4,
+        "noisy_image": "0831_noisy_0.4.png",
+        "denoised_image": "0831_denoised_0.4.png"
+    },
+    {
+        "original_image": "0810.png",
+        "noise_level": 0.1,
+        "noisy_image": "0810_noisy_0.1.png",
+        "denoised_image": "0810_denoised_0.1.png"
+    },
+    {
+        "original_image": "0810.png",
+        "noise_level": 0.15,
+        "noisy_image": "0810_noisy_0.15.png",
+        "denoised_image": "0810_denoised_0.15.png"
+    },
+    {
+        "original_image": "0810.png",
+        "noise_level": 0.2,
+        "noisy_image": "0810_noisy_0.2.png",
+        "denoised_image": "0810_denoised_0.2.png"
+    },
+    {
+        "original_image": "0810.png",
+        "noise_level": 0.3,
+        "noisy_image": "0810_noisy_0.3.png",
+        "denoised_image": "0810_denoised_0.3.png"
+    },
+    {
+        "original_image": "0810.png",
+        "noise_level": 0.4,
+        "noisy_image": "0810_noisy_0.4.png",
+        "denoised_image": "0810_denoised_0.4.png"
+    },
+    {
+        "original_image": "0883.png",
+        "noise_level": 0.1,
+        "noisy_image": "0883_noisy_0.1.png",
+        "denoised_image": "0883_denoised_0.1.png"
+    },
+    {
+        "original_image": "0883.png",
+        "noise_level": 0.15,
+        "noisy_image": "0883_noisy_0.15.png",
+        "denoised_image": "0883_denoised_0.15.png"
+    },
+    {
+        "original_image": "0883.png",
+        "noise_level": 0.2,
+        "noisy_image": "0883_noisy_0.2.png",
+        "denoised_image": "0883_denoised_0.2.png"
+    },
+    {
+        "original_image": "0883.png",
+        "noise_level": 0.3,
+        "noisy_image": "0883_noisy_0.3.png",
+        "denoised_image": "0883_denoised_0.3.png"
+    },
+    {
+        "original_image": "0883.png",
+        "noise_level": 0.4,
+        "noisy_image": "0883_noisy_0.4.png",
+        "denoised_image": "0883_denoised_0.4.png"
+    },
+    {
+        "original_image": "0882.png",
+        "noise_level": 0.1,
+        "noisy_image": "0882_noisy_0.1.png",
+        "denoised_image": "0882_denoised_0.1.png"
+    },
+    {
+        "original_image": "0882.png",
+        "noise_level": 0.15,
+        "noisy_image": "0882_noisy_0.15.png",
+        "denoised_image": "0882_denoised_0.15.png"
+    },
+    {
+        "original_image": "0882.png",
+        "noise_level": 0.2,
+        "noisy_image": "0882_noisy_0.2.png",
+        "denoised_image": "0882_denoised_0.2.png"
+    },
+    {
+        "original_image": "0882.png",
+        "noise_level": 0.3,
+        "noisy_image": "0882_noisy_0.3.png",
+        "denoised_image": "0882_denoised_0.3.png"
+    },
+    {
+        "original_image": "0882.png",
+        "noise_level": 0.4,
+        "noisy_image": "0882_noisy_0.4.png",
+        "denoised_image": "0882_denoised_0.4.png"
+    },
+    {
+        "original_image": "0868.png",
+        "noise_level": 0.1,
+        "noisy_image": "0868_noisy_0.1.png",
+        "denoised_image": "0868_denoised_0.1.png"
+    },
+    {
+        "original_image": "0868.png",
+        "noise_level": 0.15,
+        "noisy_image": "0868_noisy_0.15.png",
+        "denoised_image": "0868_denoised_0.15.png"
+    },
+    {
+        "original_image": "0868.png",
+        "noise_level": 0.2,
+        "noisy_image": "0868_noisy_0.2.png",
+        "denoised_image": "0868_denoised_0.2.png"
+    },
+    {
+        "original_image": "0868.png",
+        "noise_level": 0.3,
+        "noisy_image": "0868_noisy_0.3.png",
+        "denoised_image": "0868_denoised_0.3.png"
+    },
+    {
+        "original_image": "0868.png",
+        "noise_level": 0.4,
+        "noisy_image": "0868_noisy_0.4.png",
+        "denoised_image": "0868_denoised_0.4.png"
+    },
+    {
+        "original_image": "0860.png",
+        "noise_level": 0.1,
+        "noisy_image": "0860_noisy_0.1.png",
+        "denoised_image": "0860_denoised_0.1.png"
+    },
+    {
+        "original_image": "0860.png",
+        "noise_level": 0.15,
+        "noisy_image": "0860_noisy_0.15.png",
+        "denoised_image": "0860_denoised_0.15.png"
+    },
+    {
+        "original_image": "0860.png",
+        "noise_level": 0.2,
+        "noisy_image": "0860_noisy_0.2.png",
+        "denoised_image": "0860_denoised_0.2.png"
+    },
+    {
+        "original_image": "0860.png",
+        "noise_level": 0.3,
+        "noisy_image": "0860_noisy_0.3.png",
+        "denoised_image": "0860_denoised_0.3.png"
+    },
+    {
+        "original_image": "0860.png",
+        "noise_level": 0.4,
+        "noisy_image": "0860_noisy_0.4.png",
+        "denoised_image": "0860_denoised_0.4.png"
+    },
+    {
+        "original_image": "0803.png",
+        "noise_level": 0.1,
+        "noisy_image": "0803_noisy_0.1.png",
+        "denoised_image": "0803_denoised_0.1.png"
+    },
+    {
+        "original_image": "0803.png",
+        "noise_level": 0.15,
+        "noisy_image": "0803_noisy_0.15.png",
+        "denoised_image": "0803_denoised_0.15.png"
+    },
+    {
+        "original_image": "0803.png",
+        "noise_level": 0.2,
+        "noisy_image": "0803_noisy_0.2.png",
+        "denoised_image": "0803_denoised_0.2.png"
+    },
+    {
+        "original_image": "0803.png",
+        "noise_level": 0.3,
+        "noisy_image": "0803_noisy_0.3.png",
+        "denoised_image": "0803_denoised_0.3.png"
+    },
+    {
+        "original_image": "0803.png",
+        "noise_level": 0.4,
+        "noisy_image": "0803_noisy_0.4.png",
+        "denoised_image": "0803_denoised_0.4.png"
+    },
+    {
+        "original_image": "0833.png",
+        "noise_level": 0.1,
+        "noisy_image": "0833_noisy_0.1.png",
+        "denoised_image": "0833_denoised_0.1.png"
+    },
+    {
+        "original_image": "0833.png",
+        "noise_level": 0.15,
+        "noisy_image": "0833_noisy_0.15.png",
+        "denoised_image": "0833_denoised_0.15.png"
+    },
+    {
+        "original_image": "0833.png",
+        "noise_level": 0.2,
+        "noisy_image": "0833_noisy_0.2.png",
+        "denoised_image": "0833_denoised_0.2.png"
+    },
+    {
+        "original_image": "0833.png",
+        "noise_level": 0.3,
+        "noisy_image": "0833_noisy_0.3.png",
+        "denoised_image": "0833_denoised_0.3.png"
+    },
+    {
+        "original_image": "0833.png",
+        "noise_level": 0.4,
+        "noisy_image": "0833_noisy_0.4.png",
+        "denoised_image": "0833_denoised_0.4.png"
+    },
+    {
+        "original_image": "0885.png",
+        "noise_level": 0.1,
+        "noisy_image": "0885_noisy_0.1.png",
+        "denoised_image": "0885_denoised_0.1.png"
+    },
+    {
+        "original_image": "0885.png",
+        "noise_level": 0.15,
+        "noisy_image": "0885_noisy_0.15.png",
+        "denoised_image": "0885_denoised_0.15.png"
+    },
+    {
+        "original_image": "0885.png",
+        "noise_level": 0.2,
+        "noisy_image": "0885_noisy_0.2.png",
+        "denoised_image": "0885_denoised_0.2.png"
+    },
+    {
+        "original_image": "0885.png",
+        "noise_level": 0.3,
+        "noisy_image": "0885_noisy_0.3.png",
+        "denoised_image": "0885_denoised_0.3.png"
+    },
+    {
+        "original_image": "0885.png",
+        "noise_level": 0.4,
+        "noisy_image": "0885_noisy_0.4.png",
+        "denoised_image": "0885_denoised_0.4.png"
+    },
+    {
+        "original_image": "0838.png",
+        "noise_level": 0.1,
+        "noisy_image": "0838_noisy_0.1.png",
+        "denoised_image": "0838_denoised_0.1.png"
+    },
+    {
+        "original_image": "0838.png",
+        "noise_level": 0.15,
+        "noisy_image": "0838_noisy_0.15.png",
+        "denoised_image": "0838_denoised_0.15.png"
+    },
+    {
+        "original_image": "0838.png",
+        "noise_level": 0.2,
+        "noisy_image": "0838_noisy_0.2.png",
+        "denoised_image": "0838_denoised_0.2.png"
+    },
+    {
+        "original_image": "0838.png",
+        "noise_level": 0.3,
+        "noisy_image": "0838_noisy_0.3.png",
+        "denoised_image": "0838_denoised_0.3.png"
+    },
+    {
+        "original_image": "0838.png",
+        "noise_level": 0.4,
+        "noisy_image": "0838_noisy_0.4.png",
+        "denoised_image": "0838_denoised_0.4.png"
+    },
+    {
+        "original_image": "0877.png",
+        "noise_level": 0.1,
+        "noisy_image": "0877_noisy_0.1.png",
+        "denoised_image": "0877_denoised_0.1.png"
+    },
+    {
+        "original_image": "0877.png",
+        "noise_level": 0.15,
+        "noisy_image": "0877_noisy_0.15.png",
+        "denoised_image": "0877_denoised_0.15.png"
+    },
+    {
+        "original_image": "0877.png",
+        "noise_level": 0.2,
+        "noisy_image": "0877_noisy_0.2.png",
+        "denoised_image": "0877_denoised_0.2.png"
+    },
+    {
+        "original_image": "0877.png",
+        "noise_level": 0.3,
+        "noisy_image": "0877_noisy_0.3.png",
+        "denoised_image": "0877_denoised_0.3.png"
+    },
+    {
+        "original_image": "0877.png",
+        "noise_level": 0.4,
+        "noisy_image": "0877_noisy_0.4.png",
+        "denoised_image": "0877_denoised_0.4.png"
+    },
+    {
+        "original_image": "0893.png",
+        "noise_level": 0.1,
+        "noisy_image": "0893_noisy_0.1.png",
+        "denoised_image": "0893_denoised_0.1.png"
+    },
+    {
+        "original_image": "0893.png",
+        "noise_level": 0.15,
+        "noisy_image": "0893_noisy_0.15.png",
+        "denoised_image": "0893_denoised_0.15.png"
+    },
+    {
+        "original_image": "0893.png",
+        "noise_level": 0.2,
+        "noisy_image": "0893_noisy_0.2.png",
+        "denoised_image": "0893_denoised_0.2.png"
+    },
+    {
+        "original_image": "0893.png",
+        "noise_level": 0.3,
+        "noisy_image": "0893_noisy_0.3.png",
+        "denoised_image": "0893_denoised_0.3.png"
+    },
+    {
+        "original_image": "0893.png",
+        "noise_level": 0.4,
+        "noisy_image": "0893_noisy_0.4.png",
+        "denoised_image": "0893_denoised_0.4.png"
+    },
+    {
+        "original_image": "0862.png",
+        "noise_level": 0.1,
+        "noisy_image": "0862_noisy_0.1.png",
+        "denoised_image": "0862_denoised_0.1.png"
+    },
+    {
+        "original_image": "0862.png",
+        "noise_level": 0.15,
+        "noisy_image": "0862_noisy_0.15.png",
+        "denoised_image": "0862_denoised_0.15.png"
+    },
+    {
+        "original_image": "0862.png",
+        "noise_level": 0.2,
+        "noisy_image": "0862_noisy_0.2.png",
+        "denoised_image": "0862_denoised_0.2.png"
+    },
+    {
+        "original_image": "0862.png",
+        "noise_level": 0.3,
+        "noisy_image": "0862_noisy_0.3.png",
+        "denoised_image": "0862_denoised_0.3.png"
+    },
+    {
+        "original_image": "0862.png",
+        "noise_level": 0.4,
+        "noisy_image": "0862_noisy_0.4.png",
+        "denoised_image": "0862_denoised_0.4.png"
+    },
+    {
+        "original_image": "0850.png",
+        "noise_level": 0.1,
+        "noisy_image": "0850_noisy_0.1.png",
+        "denoised_image": "0850_denoised_0.1.png"
+    },
+    {
+        "original_image": "0850.png",
+        "noise_level": 0.15,
+        "noisy_image": "0850_noisy_0.15.png",
+        "denoised_image": "0850_denoised_0.15.png"
+    },
+    {
+        "original_image": "0850.png",
+        "noise_level": 0.2,
+        "noisy_image": "0850_noisy_0.2.png",
+        "denoised_image": "0850_denoised_0.2.png"
+    },
+    {
+        "original_image": "0850.png",
+        "noise_level": 0.3,
+        "noisy_image": "0850_noisy_0.3.png",
+        "denoised_image": "0850_denoised_0.3.png"
+    },
+    {
+        "original_image": "0850.png",
+        "noise_level": 0.4,
+        "noisy_image": "0850_noisy_0.4.png",
+        "denoised_image": "0850_denoised_0.4.png"
+    },
+    {
+        "original_image": "0873.png",
+        "noise_level": 0.1,
+        "noisy_image": "0873_noisy_0.1.png",
+        "denoised_image": "0873_denoised_0.1.png"
+    },
+    {
+        "original_image": "0873.png",
+        "noise_level": 0.15,
+        "noisy_image": "0873_noisy_0.15.png",
+        "denoised_image": "0873_denoised_0.15.png"
+    },
+    {
+        "original_image": "0873.png",
+        "noise_level": 0.2,
+        "noisy_image": "0873_noisy_0.2.png",
+        "denoised_image": "0873_denoised_0.2.png"
+    },
+    {
+        "original_image": "0873.png",
+        "noise_level": 0.3,
+        "noisy_image": "0873_noisy_0.3.png",
+        "denoised_image": "0873_denoised_0.3.png"
+    },
+    {
+        "original_image": "0873.png",
+        "noise_level": 0.4,
+        "noisy_image": "0873_noisy_0.4.png",
+        "denoised_image": "0873_denoised_0.4.png"
+    },
+    {
+        "original_image": "0832.png",
+        "noise_level": 0.1,
+        "noisy_image": "0832_noisy_0.1.png",
+        "denoised_image": "0832_denoised_0.1.png"
+    },
+    {
+        "original_image": "0832.png",
+        "noise_level": 0.15,
+        "noisy_image": "0832_noisy_0.15.png",
+        "denoised_image": "0832_denoised_0.15.png"
+    },
+    {
+        "original_image": "0832.png",
+        "noise_level": 0.2,
+        "noisy_image": "0832_noisy_0.2.png",
+        "denoised_image": "0832_denoised_0.2.png"
+    },
+    {
+        "original_image": "0832.png",
+        "noise_level": 0.3,
+        "noisy_image": "0832_noisy_0.3.png",
+        "denoised_image": "0832_denoised_0.3.png"
+    },
+    {
+        "original_image": "0832.png",
+        "noise_level": 0.4,
+        "noisy_image": "0832_noisy_0.4.png",
+        "denoised_image": "0832_denoised_0.4.png"
+    },
+    {
+        "original_image": "0864.png",
+        "noise_level": 0.1,
+        "noisy_image": "0864_noisy_0.1.png",
+        "denoised_image": "0864_denoised_0.1.png"
+    },
+    {
+        "original_image": "0864.png",
+        "noise_level": 0.15,
+        "noisy_image": "0864_noisy_0.15.png",
+        "denoised_image": "0864_denoised_0.15.png"
+    },
+    {
+        "original_image": "0864.png",
+        "noise_level": 0.2,
+        "noisy_image": "0864_noisy_0.2.png",
+        "denoised_image": "0864_denoised_0.2.png"
+    },
+    {
+        "original_image": "0864.png",
+        "noise_level": 0.3,
+        "noisy_image": "0864_noisy_0.3.png",
+        "denoised_image": "0864_denoised_0.3.png"
+    },
+    {
+        "original_image": "0864.png",
+        "noise_level": 0.4,
+        "noisy_image": "0864_noisy_0.4.png",
+        "denoised_image": "0864_denoised_0.4.png"
+    },
+    {
+        "original_image": "0853.png",
+        "noise_level": 0.1,
+        "noisy_image": "0853_noisy_0.1.png",
+        "denoised_image": "0853_denoised_0.1.png"
+    },
+    {
+        "original_image": "0853.png",
+        "noise_level": 0.15,
+        "noisy_image": "0853_noisy_0.15.png",
+        "denoised_image": "0853_denoised_0.15.png"
+    },
+    {
+        "original_image": "0853.png",
+        "noise_level": 0.2,
+        "noisy_image": "0853_noisy_0.2.png",
+        "denoised_image": "0853_denoised_0.2.png"
+    },
+    {
+        "original_image": "0853.png",
+        "noise_level": 0.3,
+        "noisy_image": "0853_noisy_0.3.png",
+        "denoised_image": "0853_denoised_0.3.png"
+    },
+    {
+        "original_image": "0853.png",
+        "noise_level": 0.4,
+        "noisy_image": "0853_noisy_0.4.png",
+        "denoised_image": "0853_denoised_0.4.png"
+    },
+    {
+        "original_image": "0824.png",
+        "noise_level": 0.1,
+        "noisy_image": "0824_noisy_0.1.png",
+        "denoised_image": "0824_denoised_0.1.png"
+    },
+    {
+        "original_image": "0824.png",
+        "noise_level": 0.15,
+        "noisy_image": "0824_noisy_0.15.png",
+        "denoised_image": "0824_denoised_0.15.png"
+    },
+    {
+        "original_image": "0824.png",
+        "noise_level": 0.2,
+        "noisy_image": "0824_noisy_0.2.png",
+        "denoised_image": "0824_denoised_0.2.png"
+    },
+    {
+        "original_image": "0824.png",
+        "noise_level": 0.3,
+        "noisy_image": "0824_noisy_0.3.png",
+        "denoised_image": "0824_denoised_0.3.png"
+    },
+    {
+        "original_image": "0824.png",
+        "noise_level": 0.4,
+        "noisy_image": "0824_noisy_0.4.png",
+        "denoised_image": "0824_denoised_0.4.png"
+    },
+    {
+        "original_image": "0900.png",
+        "noise_level": 0.1,
+        "noisy_image": "0900_noisy_0.1.png",
+        "denoised_image": "0900_denoised_0.1.png"
+    },
+    {
+        "original_image": "0900.png",
+        "noise_level": 0.15,
+        "noisy_image": "0900_noisy_0.15.png",
+        "denoised_image": "0900_denoised_0.15.png"
+    },
+    {
+        "original_image": "0900.png",
+        "noise_level": 0.2,
+        "noisy_image": "0900_noisy_0.2.png",
+        "denoised_image": "0900_denoised_0.2.png"
+    },
+    {
+        "original_image": "0900.png",
+        "noise_level": 0.3,
+        "noisy_image": "0900_noisy_0.3.png",
+        "denoised_image": "0900_denoised_0.3.png"
+    },
+    {
+        "original_image": "0900.png",
+        "noise_level": 0.4,
+        "noisy_image": "0900_noisy_0.4.png",
+        "denoised_image": "0900_denoised_0.4.png"
+    },
+    {
+        "original_image": "0871.png",
+        "noise_level": 0.1,
+        "noisy_image": "0871_noisy_0.1.png",
+        "denoised_image": "0871_denoised_0.1.png"
+    },
+    {
+        "original_image": "0871.png",
+        "noise_level": 0.15,
+        "noisy_image": "0871_noisy_0.15.png",
+        "denoised_image": "0871_denoised_0.15.png"
+    },
+    {
+        "original_image": "0871.png",
+        "noise_level": 0.2,
+        "noisy_image": "0871_noisy_0.2.png",
+        "denoised_image": "0871_denoised_0.2.png"
+    },
+    {
+        "original_image": "0871.png",
+        "noise_level": 0.3,
+        "noisy_image": "0871_noisy_0.3.png",
+        "denoised_image": "0871_denoised_0.3.png"
+    },
+    {
+        "original_image": "0871.png",
+        "noise_level": 0.4,
+        "noisy_image": "0871_noisy_0.4.png",
+        "denoised_image": "0871_denoised_0.4.png"
+    },
+    {
+        "original_image": "0851.png",
+        "noise_level": 0.1,
+        "noisy_image": "0851_noisy_0.1.png",
+        "denoised_image": "0851_denoised_0.1.png"
+    },
+    {
+        "original_image": "0851.png",
+        "noise_level": 0.15,
+        "noisy_image": "0851_noisy_0.15.png",
+        "denoised_image": "0851_denoised_0.15.png"
+    },
+    {
+        "original_image": "0851.png",
+        "noise_level": 0.2,
+        "noisy_image": "0851_noisy_0.2.png",
+        "denoised_image": "0851_denoised_0.2.png"
+    },
+    {
+        "original_image": "0851.png",
+        "noise_level": 0.3,
+        "noisy_image": "0851_noisy_0.3.png",
+        "denoised_image": "0851_denoised_0.3.png"
+    },
+    {
+        "original_image": "0851.png",
+        "noise_level": 0.4,
+        "noisy_image": "0851_noisy_0.4.png",
+        "denoised_image": "0851_denoised_0.4.png"
+    },
+    {
+        "original_image": "0806.png",
+        "noise_level": 0.1,
+        "noisy_image": "0806_noisy_0.1.png",
+        "denoised_image": "0806_denoised_0.1.png"
+    },
+    {
+        "original_image": "0806.png",
+        "noise_level": 0.15,
+        "noisy_image": "0806_noisy_0.15.png",
+        "denoised_image": "0806_denoised_0.15.png"
+    },
+    {
+        "original_image": "0806.png",
+        "noise_level": 0.2,
+        "noisy_image": "0806_noisy_0.2.png",
+        "denoised_image": "0806_denoised_0.2.png"
+    },
+    {
+        "original_image": "0806.png",
+        "noise_level": 0.3,
+        "noisy_image": "0806_noisy_0.3.png",
+        "denoised_image": "0806_denoised_0.3.png"
+    },
+    {
+        "original_image": "0806.png",
+        "noise_level": 0.4,
+        "noisy_image": "0806_noisy_0.4.png",
+        "denoised_image": "0806_denoised_0.4.png"
+    },
+    {
+        "original_image": "0814.png",
+        "noise_level": 0.1,
+        "noisy_image": "0814_noisy_0.1.png",
+        "denoised_image": "0814_denoised_0.1.png"
+    },
+    {
+        "original_image": "0814.png",
+        "noise_level": 0.15,
+        "noisy_image": "0814_noisy_0.15.png",
+        "denoised_image": "0814_denoised_0.15.png"
+    },
+    {
+        "original_image": "0814.png",
+        "noise_level": 0.2,
+        "noisy_image": "0814_noisy_0.2.png",
+        "denoised_image": "0814_denoised_0.2.png"
+    },
+    {
+        "original_image": "0814.png",
+        "noise_level": 0.3,
+        "noisy_image": "0814_noisy_0.3.png",
+        "denoised_image": "0814_denoised_0.3.png"
+    },
+    {
+        "original_image": "0814.png",
+        "noise_level": 0.4,
+        "noisy_image": "0814_noisy_0.4.png",
+        "denoised_image": "0814_denoised_0.4.png"
+    },
+    {
+        "original_image": "0801.png",
+        "noise_level": 0.1,
+        "noisy_image": "0801_noisy_0.1.png",
+        "denoised_image": "0801_denoised_0.1.png"
+    },
+    {
+        "original_image": "0801.png",
+        "noise_level": 0.15,
+        "noisy_image": "0801_noisy_0.15.png",
+        "denoised_image": "0801_denoised_0.15.png"
+    },
+    {
+        "original_image": "0801.png",
+        "noise_level": 0.2,
+        "noisy_image": "0801_noisy_0.2.png",
+        "denoised_image": "0801_denoised_0.2.png"
+    },
+    {
+        "original_image": "0801.png",
+        "noise_level": 0.3,
+        "noisy_image": "0801_noisy_0.3.png",
+        "denoised_image": "0801_denoised_0.3.png"
+    },
+    {
+        "original_image": "0801.png",
+        "noise_level": 0.4,
+        "noisy_image": "0801_noisy_0.4.png",
+        "denoised_image": "0801_denoised_0.4.png"
+    },
+    {
+        "original_image": "0840.png",
+        "noise_level": 0.1,
+        "noisy_image": "0840_noisy_0.1.png",
+        "denoised_image": "0840_denoised_0.1.png"
+    },
+    {
+        "original_image": "0840.png",
+        "noise_level": 0.15,
+        "noisy_image": "0840_noisy_0.15.png",
+        "denoised_image": "0840_denoised_0.15.png"
+    },
+    {
+        "original_image": "0840.png",
+        "noise_level": 0.2,
+        "noisy_image": "0840_noisy_0.2.png",
+        "denoised_image": "0840_denoised_0.2.png"
+    },
+    {
+        "original_image": "0840.png",
+        "noise_level": 0.3,
+        "noisy_image": "0840_noisy_0.3.png",
+        "denoised_image": "0840_denoised_0.3.png"
+    },
+    {
+        "original_image": "0840.png",
+        "noise_level": 0.4,
+        "noisy_image": "0840_noisy_0.4.png",
+        "denoised_image": "0840_denoised_0.4.png"
+    },
+    {
+        "original_image": "0825.png",
+        "noise_level": 0.1,
+        "noisy_image": "0825_noisy_0.1.png",
+        "denoised_image": "0825_denoised_0.1.png"
+    },
+    {
+        "original_image": "0825.png",
+        "noise_level": 0.15,
+        "noisy_image": "0825_noisy_0.15.png",
+        "denoised_image": "0825_denoised_0.15.png"
+    },
+    {
+        "original_image": "0825.png",
+        "noise_level": 0.2,
+        "noisy_image": "0825_noisy_0.2.png",
+        "denoised_image": "0825_denoised_0.2.png"
+    },
+    {
+        "original_image": "0825.png",
+        "noise_level": 0.3,
+        "noisy_image": "0825_noisy_0.3.png",
+        "denoised_image": "0825_denoised_0.3.png"
+    },
+    {
+        "original_image": "0825.png",
+        "noise_level": 0.4,
+        "noisy_image": "0825_noisy_0.4.png",
+        "denoised_image": "0825_denoised_0.4.png"
+    },
+    {
+        "original_image": "0808.png",
+        "noise_level": 0.1,
+        "noisy_image": "0808_noisy_0.1.png",
+        "denoised_image": "0808_denoised_0.1.png"
+    },
+    {
+        "original_image": "0808.png",
+        "noise_level": 0.15,
+        "noisy_image": "0808_noisy_0.15.png",
+        "denoised_image": "0808_denoised_0.15.png"
+    },
+    {
+        "original_image": "0808.png",
+        "noise_level": 0.2,
+        "noisy_image": "0808_noisy_0.2.png",
+        "denoised_image": "0808_denoised_0.2.png"
+    },
+    {
+        "original_image": "0808.png",
+        "noise_level": 0.3,
+        "noisy_image": "0808_noisy_0.3.png",
+        "denoised_image": "0808_denoised_0.3.png"
+    },
+    {
+        "original_image": "0808.png",
+        "noise_level": 0.4,
+        "noisy_image": "0808_noisy_0.4.png",
+        "denoised_image": "0808_denoised_0.4.png"
+    },
+    {
+        "original_image": "0888.png",
+        "noise_level": 0.1,
+        "noisy_image": "0888_noisy_0.1.png",
+        "denoised_image": "0888_denoised_0.1.png"
+    },
+    {
+        "original_image": "0888.png",
+        "noise_level": 0.15,
+        "noisy_image": "0888_noisy_0.15.png",
+        "denoised_image": "0888_denoised_0.15.png"
+    },
+    {
+        "original_image": "0888.png",
+        "noise_level": 0.2,
+        "noisy_image": "0888_noisy_0.2.png",
+        "denoised_image": "0888_denoised_0.2.png"
+    },
+    {
+        "original_image": "0888.png",
+        "noise_level": 0.3,
+        "noisy_image": "0888_noisy_0.3.png",
+        "denoised_image": "0888_denoised_0.3.png"
+    },
+    {
+        "original_image": "0888.png",
+        "noise_level": 0.4,
+        "noisy_image": "0888_noisy_0.4.png",
+        "denoised_image": "0888_denoised_0.4.png"
+    },
+    {
+        "original_image": "0844.png",
+        "noise_level": 0.1,
+        "noisy_image": "0844_noisy_0.1.png",
+        "denoised_image": "0844_denoised_0.1.png"
+    },
+    {
+        "original_image": "0844.png",
+        "noise_level": 0.15,
+        "noisy_image": "0844_noisy_0.15.png",
+        "denoised_image": "0844_denoised_0.15.png"
+    },
+    {
+        "original_image": "0844.png",
+        "noise_level": 0.2,
+        "noisy_image": "0844_noisy_0.2.png",
+        "denoised_image": "0844_denoised_0.2.png"
+    },
+    {
+        "original_image": "0844.png",
+        "noise_level": 0.3,
+        "noisy_image": "0844_noisy_0.3.png",
+        "denoised_image": "0844_denoised_0.3.png"
+    },
+    {
+        "original_image": "0844.png",
+        "noise_level": 0.4,
+        "noisy_image": "0844_noisy_0.4.png",
+        "denoised_image": "0844_denoised_0.4.png"
+    },
+    {
+        "original_image": "0848.png",
+        "noise_level": 0.1,
+        "noisy_image": "0848_noisy_0.1.png",
+        "denoised_image": "0848_denoised_0.1.png"
+    },
+    {
+        "original_image": "0848.png",
+        "noise_level": 0.15,
+        "noisy_image": "0848_noisy_0.15.png",
+        "denoised_image": "0848_denoised_0.15.png"
+    },
+    {
+        "original_image": "0848.png",
+        "noise_level": 0.2,
+        "noisy_image": "0848_noisy_0.2.png",
+        "denoised_image": "0848_denoised_0.2.png"
+    },
+    {
+        "original_image": "0848.png",
+        "noise_level": 0.3,
+        "noisy_image": "0848_noisy_0.3.png",
+        "denoised_image": "0848_denoised_0.3.png"
+    },
+    {
+        "original_image": "0848.png",
+        "noise_level": 0.4,
+        "noisy_image": "0848_noisy_0.4.png",
+        "denoised_image": "0848_denoised_0.4.png"
+    },
+    {
+        "original_image": "0837.png",
+        "noise_level": 0.1,
+        "noisy_image": "0837_noisy_0.1.png",
+        "denoised_image": "0837_denoised_0.1.png"
+    },
+    {
+        "original_image": "0837.png",
+        "noise_level": 0.15,
+        "noisy_image": "0837_noisy_0.15.png",
+        "denoised_image": "0837_denoised_0.15.png"
+    },
+    {
+        "original_image": "0837.png",
+        "noise_level": 0.2,
+        "noisy_image": "0837_noisy_0.2.png",
+        "denoised_image": "0837_denoised_0.2.png"
+    },
+    {
+        "original_image": "0837.png",
+        "noise_level": 0.3,
+        "noisy_image": "0837_noisy_0.3.png",
+        "denoised_image": "0837_denoised_0.3.png"
+    },
+    {
+        "original_image": "0837.png",
+        "noise_level": 0.4,
+        "noisy_image": "0837_noisy_0.4.png",
+        "denoised_image": "0837_denoised_0.4.png"
+    },
+    {
+        "original_image": "0869.png",
+        "noise_level": 0.1,
+        "noisy_image": "0869_noisy_0.1.png",
+        "denoised_image": "0869_denoised_0.1.png"
+    },
+    {
+        "original_image": "0869.png",
+        "noise_level": 0.15,
+        "noisy_image": "0869_noisy_0.15.png",
+        "denoised_image": "0869_denoised_0.15.png"
+    },
+    {
+        "original_image": "0869.png",
+        "noise_level": 0.2,
+        "noisy_image": "0869_noisy_0.2.png",
+        "denoised_image": "0869_denoised_0.2.png"
+    },
+    {
+        "original_image": "0869.png",
+        "noise_level": 0.3,
+        "noisy_image": "0869_noisy_0.3.png",
+        "denoised_image": "0869_denoised_0.3.png"
+    },
+    {
+        "original_image": "0869.png",
+        "noise_level": 0.4,
+        "noisy_image": "0869_noisy_0.4.png",
+        "denoised_image": "0869_denoised_0.4.png"
+    },
+    {
+        "original_image": "0861.png",
+        "noise_level": 0.1,
+        "noisy_image": "0861_noisy_0.1.png",
+        "denoised_image": "0861_denoised_0.1.png"
+    },
+    {
+        "original_image": "0861.png",
+        "noise_level": 0.15,
+        "noisy_image": "0861_noisy_0.15.png",
+        "denoised_image": "0861_denoised_0.15.png"
+    },
+    {
+        "original_image": "0861.png",
+        "noise_level": 0.2,
+        "noisy_image": "0861_noisy_0.2.png",
+        "denoised_image": "0861_denoised_0.2.png"
+    },
+    {
+        "original_image": "0861.png",
+        "noise_level": 0.3,
+        "noisy_image": "0861_noisy_0.3.png",
+        "denoised_image": "0861_denoised_0.3.png"
+    },
+    {
+        "original_image": "0861.png",
+        "noise_level": 0.4,
+        "noisy_image": "0861_noisy_0.4.png",
+        "denoised_image": "0861_denoised_0.4.png"
+    },
+    {
+        "original_image": "0835.png",
+        "noise_level": 0.1,
+        "noisy_image": "0835_noisy_0.1.png",
+        "denoised_image": "0835_denoised_0.1.png"
+    },
+    {
+        "original_image": "0835.png",
+        "noise_level": 0.15,
+        "noisy_image": "0835_noisy_0.15.png",
+        "denoised_image": "0835_denoised_0.15.png"
+    },
+    {
+        "original_image": "0835.png",
+        "noise_level": 0.2,
+        "noisy_image": "0835_noisy_0.2.png",
+        "denoised_image": "0835_denoised_0.2.png"
+    },
+    {
+        "original_image": "0835.png",
+        "noise_level": 0.3,
+        "noisy_image": "0835_noisy_0.3.png",
+        "denoised_image": "0835_denoised_0.3.png"
+    },
+    {
+        "original_image": "0835.png",
+        "noise_level": 0.4,
+        "noisy_image": "0835_noisy_0.4.png",
+        "denoised_image": "0835_denoised_0.4.png"
+    },
+    {
+        "original_image": "0870.png",
+        "noise_level": 0.1,
+        "noisy_image": "0870_noisy_0.1.png",
+        "denoised_image": "0870_denoised_0.1.png"
+    },
+    {
+        "original_image": "0870.png",
+        "noise_level": 0.15,
+        "noisy_image": "0870_noisy_0.15.png",
+        "denoised_image": "0870_denoised_0.15.png"
+    },
+    {
+        "original_image": "0870.png",
+        "noise_level": 0.2,
+        "noisy_image": "0870_noisy_0.2.png",
+        "denoised_image": "0870_denoised_0.2.png"
+    },
+    {
+        "original_image": "0870.png",
+        "noise_level": 0.3,
+        "noisy_image": "0870_noisy_0.3.png",
+        "denoised_image": "0870_denoised_0.3.png"
+    },
+    {
+        "original_image": "0870.png",
+        "noise_level": 0.4,
+        "noisy_image": "0870_noisy_0.4.png",
+        "denoised_image": "0870_denoised_0.4.png"
+    },
+    {
+        "original_image": "0892.png",
+        "noise_level": 0.1,
+        "noisy_image": "0892_noisy_0.1.png",
+        "denoised_image": "0892_denoised_0.1.png"
+    },
+    {
+        "original_image": "0892.png",
+        "noise_level": 0.15,
+        "noisy_image": "0892_noisy_0.15.png",
+        "denoised_image": "0892_denoised_0.15.png"
+    },
+    {
+        "original_image": "0892.png",
+        "noise_level": 0.2,
+        "noisy_image": "0892_noisy_0.2.png",
+        "denoised_image": "0892_denoised_0.2.png"
+    },
+    {
+        "original_image": "0892.png",
+        "noise_level": 0.3,
+        "noisy_image": "0892_noisy_0.3.png",
+        "denoised_image": "0892_denoised_0.3.png"
+    },
+    {
+        "original_image": "0892.png",
+        "noise_level": 0.4,
+        "noisy_image": "0892_noisy_0.4.png",
+        "denoised_image": "0892_denoised_0.4.png"
+    },
+    {
+        "original_image": "0856.png",
+        "noise_level": 0.1,
+        "noisy_image": "0856_noisy_0.1.png",
+        "denoised_image": "0856_denoised_0.1.png"
+    },
+    {
+        "original_image": "0856.png",
+        "noise_level": 0.15,
+        "noisy_image": "0856_noisy_0.15.png",
+        "denoised_image": "0856_denoised_0.15.png"
+    },
+    {
+        "original_image": "0856.png",
+        "noise_level": 0.2,
+        "noisy_image": "0856_noisy_0.2.png",
+        "denoised_image": "0856_denoised_0.2.png"
+    },
+    {
+        "original_image": "0856.png",
+        "noise_level": 0.3,
+        "noisy_image": "0856_noisy_0.3.png",
+        "denoised_image": "0856_denoised_0.3.png"
+    },
+    {
+        "original_image": "0856.png",
+        "noise_level": 0.4,
+        "noisy_image": "0856_noisy_0.4.png",
+        "denoised_image": "0856_denoised_0.4.png"
+    },
+    {
+        "original_image": "0822.png",
+        "noise_level": 0.1,
+        "noisy_image": "0822_noisy_0.1.png",
+        "denoised_image": "0822_denoised_0.1.png"
+    },
+    {
+        "original_image": "0822.png",
+        "noise_level": 0.15,
+        "noisy_image": "0822_noisy_0.15.png",
+        "denoised_image": "0822_denoised_0.15.png"
+    },
+    {
+        "original_image": "0822.png",
+        "noise_level": 0.2,
+        "noisy_image": "0822_noisy_0.2.png",
+        "denoised_image": "0822_denoised_0.2.png"
+    },
+    {
+        "original_image": "0822.png",
+        "noise_level": 0.3,
+        "noisy_image": "0822_noisy_0.3.png",
+        "denoised_image": "0822_denoised_0.3.png"
+    },
+    {
+        "original_image": "0822.png",
+        "noise_level": 0.4,
+        "noisy_image": "0822_noisy_0.4.png",
+        "denoised_image": "0822_denoised_0.4.png"
+    },
+    {
+        "original_image": "0859.png",
+        "noise_level": 0.1,
+        "noisy_image": "0859_noisy_0.1.png",
+        "denoised_image": "0859_denoised_0.1.png"
+    },
+    {
+        "original_image": "0859.png",
+        "noise_level": 0.15,
+        "noisy_image": "0859_noisy_0.15.png",
+        "denoised_image": "0859_denoised_0.15.png"
+    },
+    {
+        "original_image": "0859.png",
+        "noise_level": 0.2,
+        "noisy_image": "0859_noisy_0.2.png",
+        "denoised_image": "0859_denoised_0.2.png"
+    },
+    {
+        "original_image": "0859.png",
+        "noise_level": 0.3,
+        "noisy_image": "0859_noisy_0.3.png",
+        "denoised_image": "0859_denoised_0.3.png"
+    },
+    {
+        "original_image": "0859.png",
+        "noise_level": 0.4,
+        "noisy_image": "0859_noisy_0.4.png",
+        "denoised_image": "0859_denoised_0.4.png"
+    },
+    {
+        "original_image": "0880.png",
+        "noise_level": 0.1,
+        "noisy_image": "0880_noisy_0.1.png",
+        "denoised_image": "0880_denoised_0.1.png"
+    },
+    {
+        "original_image": "0880.png",
+        "noise_level": 0.15,
+        "noisy_image": "0880_noisy_0.15.png",
+        "denoised_image": "0880_denoised_0.15.png"
+    },
+    {
+        "original_image": "0880.png",
+        "noise_level": 0.2,
+        "noisy_image": "0880_noisy_0.2.png",
+        "denoised_image": "0880_denoised_0.2.png"
+    },
+    {
+        "original_image": "0880.png",
+        "noise_level": 0.3,
+        "noisy_image": "0880_noisy_0.3.png",
+        "denoised_image": "0880_denoised_0.3.png"
+    },
+    {
+        "original_image": "0880.png",
+        "noise_level": 0.4,
+        "noisy_image": "0880_noisy_0.4.png",
+        "denoised_image": "0880_denoised_0.4.png"
+    },
+    {
+        "original_image": "0805.png",
+        "noise_level": 0.1,
+        "noisy_image": "0805_noisy_0.1.png",
+        "denoised_image": "0805_denoised_0.1.png"
+    },
+    {
+        "original_image": "0805.png",
+        "noise_level": 0.15,
+        "noisy_image": "0805_noisy_0.15.png",
+        "denoised_image": "0805_denoised_0.15.png"
+    },
+    {
+        "original_image": "0805.png",
+        "noise_level": 0.2,
+        "noisy_image": "0805_noisy_0.2.png",
+        "denoised_image": "0805_denoised_0.2.png"
+    },
+    {
+        "original_image": "0805.png",
+        "noise_level": 0.3,
+        "noisy_image": "0805_noisy_0.3.png",
+        "denoised_image": "0805_denoised_0.3.png"
+    },
+    {
+        "original_image": "0805.png",
+        "noise_level": 0.4,
+        "noisy_image": "0805_noisy_0.4.png",
+        "denoised_image": "0805_denoised_0.4.png"
+    },
+    {
+        "original_image": "0867.png",
+        "noise_level": 0.1,
+        "noisy_image": "0867_noisy_0.1.png",
+        "denoised_image": "0867_denoised_0.1.png"
+    },
+    {
+        "original_image": "0867.png",
+        "noise_level": 0.15,
+        "noisy_image": "0867_noisy_0.15.png",
+        "denoised_image": "0867_denoised_0.15.png"
+    },
+    {
+        "original_image": "0867.png",
+        "noise_level": 0.2,
+        "noisy_image": "0867_noisy_0.2.png",
+        "denoised_image": "0867_denoised_0.2.png"
+    },
+    {
+        "original_image": "0867.png",
+        "noise_level": 0.3,
+        "noisy_image": "0867_noisy_0.3.png",
+        "denoised_image": "0867_denoised_0.3.png"
+    },
+    {
+        "original_image": "0867.png",
+        "noise_level": 0.4,
+        "noisy_image": "0867_noisy_0.4.png",
+        "denoised_image": "0867_denoised_0.4.png"
+    },
+    {
+        "original_image": "0845.png",
+        "noise_level": 0.1,
+        "noisy_image": "0845_noisy_0.1.png",
+        "denoised_image": "0845_denoised_0.1.png"
+    },
+    {
+        "original_image": "0845.png",
+        "noise_level": 0.15,
+        "noisy_image": "0845_noisy_0.15.png",
+        "denoised_image": "0845_denoised_0.15.png"
+    },
+    {
+        "original_image": "0845.png",
+        "noise_level": 0.2,
+        "noisy_image": "0845_noisy_0.2.png",
+        "denoised_image": "0845_denoised_0.2.png"
+    },
+    {
+        "original_image": "0845.png",
+        "noise_level": 0.3,
+        "noisy_image": "0845_noisy_0.3.png",
+        "denoised_image": "0845_denoised_0.3.png"
+    },
+    {
+        "original_image": "0845.png",
+        "noise_level": 0.4,
+        "noisy_image": "0845_noisy_0.4.png",
+        "denoised_image": "0845_denoised_0.4.png"
+    },
+    {
+        "original_image": "0878.png",
+        "noise_level": 0.1,
+        "noisy_image": "0878_noisy_0.1.png",
+        "denoised_image": "0878_denoised_0.1.png"
+    },
+    {
+        "original_image": "0878.png",
+        "noise_level": 0.15,
+        "noisy_image": "0878_noisy_0.15.png",
+        "denoised_image": "0878_denoised_0.15.png"
+    },
+    {
+        "original_image": "0878.png",
+        "noise_level": 0.2,
+        "noisy_image": "0878_noisy_0.2.png",
+        "denoised_image": "0878_denoised_0.2.png"
+    },
+    {
+        "original_image": "0878.png",
+        "noise_level": 0.3,
+        "noisy_image": "0878_noisy_0.3.png",
+        "denoised_image": "0878_denoised_0.3.png"
+    },
+    {
+        "original_image": "0878.png",
+        "noise_level": 0.4,
+        "noisy_image": "0878_noisy_0.4.png",
+        "denoised_image": "0878_denoised_0.4.png"
+    },
+    {
+        "original_image": "0899.png",
+        "noise_level": 0.1,
+        "noisy_image": "0899_noisy_0.1.png",
+        "denoised_image": "0899_denoised_0.1.png"
+    },
+    {
+        "original_image": "0899.png",
+        "noise_level": 0.15,
+        "noisy_image": "0899_noisy_0.15.png",
+        "denoised_image": "0899_denoised_0.15.png"
+    },
+    {
+        "original_image": "0899.png",
+        "noise_level": 0.2,
+        "noisy_image": "0899_noisy_0.2.png",
+        "denoised_image": "0899_denoised_0.2.png"
+    },
+    {
+        "original_image": "0899.png",
+        "noise_level": 0.3,
+        "noisy_image": "0899_noisy_0.3.png",
+        "denoised_image": "0899_denoised_0.3.png"
+    },
+    {
+        "original_image": "0899.png",
+        "noise_level": 0.4,
+        "noisy_image": "0899_noisy_0.4.png",
+        "denoised_image": "0899_denoised_0.4.png"
+    },
+    {
+        "original_image": "0857.png",
+        "noise_level": 0.1,
+        "noisy_image": "0857_noisy_0.1.png",
+        "denoised_image": "0857_denoised_0.1.png"
+    },
+    {
+        "original_image": "0857.png",
+        "noise_level": 0.15,
+        "noisy_image": "0857_noisy_0.15.png",
+        "denoised_image": "0857_denoised_0.15.png"
+    },
+    {
+        "original_image": "0857.png",
+        "noise_level": 0.2,
+        "noisy_image": "0857_noisy_0.2.png",
+        "denoised_image": "0857_denoised_0.2.png"
+    },
+    {
+        "original_image": "0857.png",
+        "noise_level": 0.3,
+        "noisy_image": "0857_noisy_0.3.png",
+        "denoised_image": "0857_denoised_0.3.png"
+    },
+    {
+        "original_image": "0857.png",
+        "noise_level": 0.4,
+        "noisy_image": "0857_noisy_0.4.png",
+        "denoised_image": "0857_denoised_0.4.png"
+    },
+    {
+        "original_image": "0875.png",
+        "noise_level": 0.1,
+        "noisy_image": "0875_noisy_0.1.png",
+        "denoised_image": "0875_denoised_0.1.png"
+    },
+    {
+        "original_image": "0875.png",
+        "noise_level": 0.15,
+        "noisy_image": "0875_noisy_0.15.png",
+        "denoised_image": "0875_denoised_0.15.png"
+    },
+    {
+        "original_image": "0875.png",
+        "noise_level": 0.2,
+        "noisy_image": "0875_noisy_0.2.png",
+        "denoised_image": "0875_denoised_0.2.png"
+    },
+    {
+        "original_image": "0875.png",
+        "noise_level": 0.3,
+        "noisy_image": "0875_noisy_0.3.png",
+        "denoised_image": "0875_denoised_0.3.png"
+    },
+    {
+        "original_image": "0875.png",
+        "noise_level": 0.4,
+        "noisy_image": "0875_noisy_0.4.png",
+        "denoised_image": "0875_denoised_0.4.png"
+    },
+    {
+        "original_image": "0890.png",
+        "noise_level": 0.1,
+        "noisy_image": "0890_noisy_0.1.png",
+        "denoised_image": "0890_denoised_0.1.png"
+    },
+    {
+        "original_image": "0890.png",
+        "noise_level": 0.15,
+        "noisy_image": "0890_noisy_0.15.png",
+        "denoised_image": "0890_denoised_0.15.png"
+    },
+    {
+        "original_image": "0890.png",
+        "noise_level": 0.2,
+        "noisy_image": "0890_noisy_0.2.png",
+        "denoised_image": "0890_denoised_0.2.png"
+    },
+    {
+        "original_image": "0890.png",
+        "noise_level": 0.3,
+        "noisy_image": "0890_noisy_0.3.png",
+        "denoised_image": "0890_denoised_0.3.png"
+    },
+    {
+        "original_image": "0890.png",
+        "noise_level": 0.4,
+        "noisy_image": "0890_noisy_0.4.png",
+        "denoised_image": "0890_denoised_0.4.png"
+    },
+    {
+        "original_image": "0834.png",
+        "noise_level": 0.1,
+        "noisy_image": "0834_noisy_0.1.png",
+        "denoised_image": "0834_denoised_0.1.png"
+    },
+    {
+        "original_image": "0834.png",
+        "noise_level": 0.15,
+        "noisy_image": "0834_noisy_0.15.png",
+        "denoised_image": "0834_denoised_0.15.png"
+    },
+    {
+        "original_image": "0834.png",
+        "noise_level": 0.2,
+        "noisy_image": "0834_noisy_0.2.png",
+        "denoised_image": "0834_denoised_0.2.png"
+    },
+    {
+        "original_image": "0834.png",
+        "noise_level": 0.3,
+        "noisy_image": "0834_noisy_0.3.png",
+        "denoised_image": "0834_denoised_0.3.png"
+    },
+    {
+        "original_image": "0834.png",
+        "noise_level": 0.4,
+        "noisy_image": "0834_noisy_0.4.png",
+        "denoised_image": "0834_denoised_0.4.png"
+    },
+    {
+        "original_image": "0881.png",
+        "noise_level": 0.1,
+        "noisy_image": "0881_noisy_0.1.png",
+        "denoised_image": "0881_denoised_0.1.png"
+    },
+    {
+        "original_image": "0881.png",
+        "noise_level": 0.15,
+        "noisy_image": "0881_noisy_0.15.png",
+        "denoised_image": "0881_denoised_0.15.png"
+    },
+    {
+        "original_image": "0881.png",
+        "noise_level": 0.2,
+        "noisy_image": "0881_noisy_0.2.png",
+        "denoised_image": "0881_denoised_0.2.png"
+    },
+    {
+        "original_image": "0881.png",
+        "noise_level": 0.3,
+        "noisy_image": "0881_noisy_0.3.png",
+        "denoised_image": "0881_denoised_0.3.png"
+    },
+    {
+        "original_image": "0881.png",
+        "noise_level": 0.4,
+        "noisy_image": "0881_noisy_0.4.png",
+        "denoised_image": "0881_denoised_0.4.png"
+    },
+    {
+        "original_image": "0804.png",
+        "noise_level": 0.1,
+        "noisy_image": "0804_noisy_0.1.png",
+        "denoised_image": "0804_denoised_0.1.png"
+    },
+    {
+        "original_image": "0804.png",
+        "noise_level": 0.15,
+        "noisy_image": "0804_noisy_0.15.png",
+        "denoised_image": "0804_denoised_0.15.png"
+    },
+    {
+        "original_image": "0804.png",
+        "noise_level": 0.2,
+        "noisy_image": "0804_noisy_0.2.png",
+        "denoised_image": "0804_denoised_0.2.png"
+    },
+    {
+        "original_image": "0804.png",
+        "noise_level": 0.3,
+        "noisy_image": "0804_noisy_0.3.png",
+        "denoised_image": "0804_denoised_0.3.png"
+    },
+    {
+        "original_image": "0804.png",
+        "noise_level": 0.4,
+        "noisy_image": "0804_noisy_0.4.png",
+        "denoised_image": "0804_denoised_0.4.png"
+    },
+    {
+        "original_image": "0829.png",
+        "noise_level": 0.1,
+        "noisy_image": "0829_noisy_0.1.png",
+        "denoised_image": "0829_denoised_0.1.png"
+    },
+    {
+        "original_image": "0829.png",
+        "noise_level": 0.15,
+        "noisy_image": "0829_noisy_0.15.png",
+        "denoised_image": "0829_denoised_0.15.png"
+    },
+    {
+        "original_image": "0829.png",
+        "noise_level": 0.2,
+        "noisy_image": "0829_noisy_0.2.png",
+        "denoised_image": "0829_denoised_0.2.png"
+    },
+    {
+        "original_image": "0829.png",
+        "noise_level": 0.3,
+        "noisy_image": "0829_noisy_0.3.png",
+        "denoised_image": "0829_denoised_0.3.png"
+    },
+    {
+        "original_image": "0829.png",
+        "noise_level": 0.4,
+        "noisy_image": "0829_noisy_0.4.png",
+        "denoised_image": "0829_denoised_0.4.png"
+    },
+    {
+        "original_image": "0820.png",
+        "noise_level": 0.1,
+        "noisy_image": "0820_noisy_0.1.png",
+        "denoised_image": "0820_denoised_0.1.png"
+    },
+    {
+        "original_image": "0820.png",
+        "noise_level": 0.15,
+        "noisy_image": "0820_noisy_0.15.png",
+        "denoised_image": "0820_denoised_0.15.png"
+    },
+    {
+        "original_image": "0820.png",
+        "noise_level": 0.2,
+        "noisy_image": "0820_noisy_0.2.png",
+        "denoised_image": "0820_denoised_0.2.png"
+    },
+    {
+        "original_image": "0820.png",
+        "noise_level": 0.3,
+        "noisy_image": "0820_noisy_0.3.png",
+        "denoised_image": "0820_denoised_0.3.png"
+    },
+    {
+        "original_image": "0820.png",
+        "noise_level": 0.4,
+        "noisy_image": "0820_noisy_0.4.png",
+        "denoised_image": "0820_denoised_0.4.png"
+    },
+    {
+        "original_image": "0896.png",
+        "noise_level": 0.1,
+        "noisy_image": "0896_noisy_0.1.png",
+        "denoised_image": "0896_denoised_0.1.png"
+    },
+    {
+        "original_image": "0896.png",
+        "noise_level": 0.15,
+        "noisy_image": "0896_noisy_0.15.png",
+        "denoised_image": "0896_denoised_0.15.png"
+    },
+    {
+        "original_image": "0896.png",
+        "noise_level": 0.2,
+        "noisy_image": "0896_noisy_0.2.png",
+        "denoised_image": "0896_denoised_0.2.png"
+    },
+    {
+        "original_image": "0896.png",
+        "noise_level": 0.3,
+        "noisy_image": "0896_noisy_0.3.png",
+        "denoised_image": "0896_denoised_0.3.png"
+    },
+    {
+        "original_image": "0896.png",
+        "noise_level": 0.4,
+        "noisy_image": "0896_noisy_0.4.png",
+        "denoised_image": "0896_denoised_0.4.png"
+    },
+    {
+        "original_image": "0823.png",
+        "noise_level": 0.1,
+        "noisy_image": "0823_noisy_0.1.png",
+        "denoised_image": "0823_denoised_0.1.png"
+    },
+    {
+        "original_image": "0823.png",
+        "noise_level": 0.15,
+        "noisy_image": "0823_noisy_0.15.png",
+        "denoised_image": "0823_denoised_0.15.png"
+    },
+    {
+        "original_image": "0823.png",
+        "noise_level": 0.2,
+        "noisy_image": "0823_noisy_0.2.png",
+        "denoised_image": "0823_denoised_0.2.png"
+    },
+    {
+        "original_image": "0823.png",
+        "noise_level": 0.3,
+        "noisy_image": "0823_noisy_0.3.png",
+        "denoised_image": "0823_denoised_0.3.png"
+    },
+    {
+        "original_image": "0823.png",
+        "noise_level": 0.4,
+        "noisy_image": "0823_noisy_0.4.png",
+        "denoised_image": "0823_denoised_0.4.png"
+    },
+    {
+        "original_image": "0886.png",
+        "noise_level": 0.1,
+        "noisy_image": "0886_noisy_0.1.png",
+        "denoised_image": "0886_denoised_0.1.png"
+    },
+    {
+        "original_image": "0886.png",
+        "noise_level": 0.15,
+        "noisy_image": "0886_noisy_0.15.png",
+        "denoised_image": "0886_denoised_0.15.png"
+    },
+    {
+        "original_image": "0886.png",
+        "noise_level": 0.2,
+        "noisy_image": "0886_noisy_0.2.png",
+        "denoised_image": "0886_denoised_0.2.png"
+    },
+    {
+        "original_image": "0886.png",
+        "noise_level": 0.3,
+        "noisy_image": "0886_noisy_0.3.png",
+        "denoised_image": "0886_denoised_0.3.png"
+    },
+    {
+        "original_image": "0886.png",
+        "noise_level": 0.4,
+        "noisy_image": "0886_noisy_0.4.png",
+        "denoised_image": "0886_denoised_0.4.png"
+    },
+    {
+        "original_image": "0855.png",
+        "noise_level": 0.1,
+        "noisy_image": "0855_noisy_0.1.png",
+        "denoised_image": "0855_denoised_0.1.png"
+    },
+    {
+        "original_image": "0855.png",
+        "noise_level": 0.15,
+        "noisy_image": "0855_noisy_0.15.png",
+        "denoised_image": "0855_denoised_0.15.png"
+    },
+    {
+        "original_image": "0855.png",
+        "noise_level": 0.2,
+        "noisy_image": "0855_noisy_0.2.png",
+        "denoised_image": "0855_denoised_0.2.png"
+    },
+    {
+        "original_image": "0855.png",
+        "noise_level": 0.3,
+        "noisy_image": "0855_noisy_0.3.png",
+        "denoised_image": "0855_denoised_0.3.png"
+    },
+    {
+        "original_image": "0855.png",
+        "noise_level": 0.4,
+        "noisy_image": "0855_noisy_0.4.png",
+        "denoised_image": "0855_denoised_0.4.png"
+    },
+    {
+        "original_image": "0836.png",
+        "noise_level": 0.1,
+        "noisy_image": "0836_noisy_0.1.png",
+        "denoised_image": "0836_denoised_0.1.png"
+    },
+    {
+        "original_image": "0836.png",
+        "noise_level": 0.15,
+        "noisy_image": "0836_noisy_0.15.png",
+        "denoised_image": "0836_denoised_0.15.png"
+    },
+    {
+        "original_image": "0836.png",
+        "noise_level": 0.2,
+        "noisy_image": "0836_noisy_0.2.png",
+        "denoised_image": "0836_denoised_0.2.png"
+    },
+    {
+        "original_image": "0836.png",
+        "noise_level": 0.3,
+        "noisy_image": "0836_noisy_0.3.png",
+        "denoised_image": "0836_denoised_0.3.png"
+    },
+    {
+        "original_image": "0836.png",
+        "noise_level": 0.4,
+        "noisy_image": "0836_noisy_0.4.png",
+        "denoised_image": "0836_denoised_0.4.png"
+    },
+    {
+        "original_image": "0854.png",
+        "noise_level": 0.1,
+        "noisy_image": "0854_noisy_0.1.png",
+        "denoised_image": "0854_denoised_0.1.png"
+    },
+    {
+        "original_image": "0854.png",
+        "noise_level": 0.15,
+        "noisy_image": "0854_noisy_0.15.png",
+        "denoised_image": "0854_denoised_0.15.png"
+    },
+    {
+        "original_image": "0854.png",
+        "noise_level": 0.2,
+        "noisy_image": "0854_noisy_0.2.png",
+        "denoised_image": "0854_denoised_0.2.png"
+    },
+    {
+        "original_image": "0854.png",
+        "noise_level": 0.3,
+        "noisy_image": "0854_noisy_0.3.png",
+        "denoised_image": "0854_denoised_0.3.png"
+    },
+    {
+        "original_image": "0854.png",
+        "noise_level": 0.4,
+        "noisy_image": "0854_noisy_0.4.png",
+        "denoised_image": "0854_denoised_0.4.png"
+    },
+    {
+        "original_image": "0812.png",
+        "noise_level": 0.1,
+        "noisy_image": "0812_noisy_0.1.png",
+        "denoised_image": "0812_denoised_0.1.png"
+    },
+    {
+        "original_image": "0812.png",
+        "noise_level": 0.15,
+        "noisy_image": "0812_noisy_0.15.png",
+        "denoised_image": "0812_denoised_0.15.png"
+    },
+    {
+        "original_image": "0812.png",
+        "noise_level": 0.2,
+        "noisy_image": "0812_noisy_0.2.png",
+        "denoised_image": "0812_denoised_0.2.png"
+    },
+    {
+        "original_image": "0812.png",
+        "noise_level": 0.3,
+        "noisy_image": "0812_noisy_0.3.png",
+        "denoised_image": "0812_denoised_0.3.png"
+    },
+    {
+        "original_image": "0812.png",
+        "noise_level": 0.4,
+        "noisy_image": "0812_noisy_0.4.png",
+        "denoised_image": "0812_denoised_0.4.png"
+    },
+    {
+        "original_image": "0816.png",
+        "noise_level": 0.1,
+        "noisy_image": "0816_noisy_0.1.png",
+        "denoised_image": "0816_denoised_0.1.png"
+    },
+    {
+        "original_image": "0816.png",
+        "noise_level": 0.15,
+        "noisy_image": "0816_noisy_0.15.png",
+        "denoised_image": "0816_denoised_0.15.png"
+    },
+    {
+        "original_image": "0816.png",
+        "noise_level": 0.2,
+        "noisy_image": "0816_noisy_0.2.png",
+        "denoised_image": "0816_denoised_0.2.png"
+    },
+    {
+        "original_image": "0816.png",
+        "noise_level": 0.3,
+        "noisy_image": "0816_noisy_0.3.png",
+        "denoised_image": "0816_denoised_0.3.png"
+    },
+    {
+        "original_image": "0816.png",
+        "noise_level": 0.4,
+        "noisy_image": "0816_noisy_0.4.png",
+        "denoised_image": "0816_denoised_0.4.png"
+    },
+    {
+        "original_image": "0872.png",
+        "noise_level": 0.1,
+        "noisy_image": "0872_noisy_0.1.png",
+        "denoised_image": "0872_denoised_0.1.png"
+    },
+    {
+        "original_image": "0872.png",
+        "noise_level": 0.15,
+        "noisy_image": "0872_noisy_0.15.png",
+        "denoised_image": "0872_denoised_0.15.png"
+    },
+    {
+        "original_image": "0872.png",
+        "noise_level": 0.2,
+        "noisy_image": "0872_noisy_0.2.png",
+        "denoised_image": "0872_denoised_0.2.png"
+    },
+    {
+        "original_image": "0872.png",
+        "noise_level": 0.3,
+        "noisy_image": "0872_noisy_0.3.png",
+        "denoised_image": "0872_denoised_0.3.png"
+    },
+    {
+        "original_image": "0872.png",
+        "noise_level": 0.4,
+        "noisy_image": "0872_noisy_0.4.png",
+        "denoised_image": "0872_denoised_0.4.png"
+    },
+    {
+        "original_image": "0842.png",
+        "noise_level": 0.1,
+        "noisy_image": "0842_noisy_0.1.png",
+        "denoised_image": "0842_denoised_0.1.png"
+    },
+    {
+        "original_image": "0842.png",
+        "noise_level": 0.15,
+        "noisy_image": "0842_noisy_0.15.png",
+        "denoised_image": "0842_denoised_0.15.png"
+    },
+    {
+        "original_image": "0842.png",
+        "noise_level": 0.2,
+        "noisy_image": "0842_noisy_0.2.png",
+        "denoised_image": "0842_denoised_0.2.png"
+    },
+    {
+        "original_image": "0842.png",
+        "noise_level": 0.3,
+        "noisy_image": "0842_noisy_0.3.png",
+        "denoised_image": "0842_denoised_0.3.png"
+    },
+    {
+        "original_image": "0842.png",
+        "noise_level": 0.4,
+        "noisy_image": "0842_noisy_0.4.png",
+        "denoised_image": "0842_denoised_0.4.png"
+    },
+    {
+        "original_image": "0865.png",
+        "noise_level": 0.1,
+        "noisy_image": "0865_noisy_0.1.png",
+        "denoised_image": "0865_denoised_0.1.png"
+    },
+    {
+        "original_image": "0865.png",
+        "noise_level": 0.15,
+        "noisy_image": "0865_noisy_0.15.png",
+        "denoised_image": "0865_denoised_0.15.png"
+    },
+    {
+        "original_image": "0865.png",
+        "noise_level": 0.2,
+        "noisy_image": "0865_noisy_0.2.png",
+        "denoised_image": "0865_denoised_0.2.png"
+    },
+    {
+        "original_image": "0865.png",
+        "noise_level": 0.3,
+        "noisy_image": "0865_noisy_0.3.png",
+        "denoised_image": "0865_denoised_0.3.png"
+    },
+    {
+        "original_image": "0865.png",
+        "noise_level": 0.4,
+        "noisy_image": "0865_noisy_0.4.png",
+        "denoised_image": "0865_denoised_0.4.png"
+    },
+    {
+        "original_image": "0843.png",
+        "noise_level": 0.1,
+        "noisy_image": "0843_noisy_0.1.png",
+        "denoised_image": "0843_denoised_0.1.png"
+    },
+    {
+        "original_image": "0843.png",
+        "noise_level": 0.15,
+        "noisy_image": "0843_noisy_0.15.png",
+        "denoised_image": "0843_denoised_0.15.png"
+    },
+    {
+        "original_image": "0843.png",
+        "noise_level": 0.2,
+        "noisy_image": "0843_noisy_0.2.png",
+        "denoised_image": "0843_denoised_0.2.png"
+    },
+    {
+        "original_image": "0843.png",
+        "noise_level": 0.3,
+        "noisy_image": "0843_noisy_0.3.png",
+        "denoised_image": "0843_denoised_0.3.png"
+    },
+    {
+        "original_image": "0843.png",
+        "noise_level": 0.4,
+        "noisy_image": "0843_noisy_0.4.png",
+        "denoised_image": "0843_denoised_0.4.png"
+    },
+    {
+        "original_image": "0841.png",
+        "noise_level": 0.1,
+        "noisy_image": "0841_noisy_0.1.png",
+        "denoised_image": "0841_denoised_0.1.png"
+    },
+    {
+        "original_image": "0841.png",
+        "noise_level": 0.15,
+        "noisy_image": "0841_noisy_0.15.png",
+        "denoised_image": "0841_denoised_0.15.png"
+    },
+    {
+        "original_image": "0841.png",
+        "noise_level": 0.2,
+        "noisy_image": "0841_noisy_0.2.png",
+        "denoised_image": "0841_denoised_0.2.png"
+    },
+    {
+        "original_image": "0841.png",
+        "noise_level": 0.3,
+        "noisy_image": "0841_noisy_0.3.png",
+        "denoised_image": "0841_denoised_0.3.png"
+    },
+    {
+        "original_image": "0841.png",
+        "noise_level": 0.4,
+        "noisy_image": "0841_noisy_0.4.png",
+        "denoised_image": "0841_denoised_0.4.png"
+    },
+    {
+        "original_image": "0802.png",
+        "noise_level": 0.1,
+        "noisy_image": "0802_noisy_0.1.png",
+        "denoised_image": "0802_denoised_0.1.png"
+    },
+    {
+        "original_image": "0802.png",
+        "noise_level": 0.15,
+        "noisy_image": "0802_noisy_0.15.png",
+        "denoised_image": "0802_denoised_0.15.png"
+    },
+    {
+        "original_image": "0802.png",
+        "noise_level": 0.2,
+        "noisy_image": "0802_noisy_0.2.png",
+        "denoised_image": "0802_denoised_0.2.png"
+    },
+    {
+        "original_image": "0802.png",
+        "noise_level": 0.3,
+        "noisy_image": "0802_noisy_0.3.png",
+        "denoised_image": "0802_denoised_0.3.png"
+    },
+    {
+        "original_image": "0802.png",
+        "noise_level": 0.4,
+        "noisy_image": "0802_noisy_0.4.png",
+        "denoised_image": "0802_denoised_0.4.png"
+    },
+    {
+        "original_image": "0879.png",
+        "noise_level": 0.1,
+        "noisy_image": "0879_noisy_0.1.png",
+        "denoised_image": "0879_denoised_0.1.png"
+    },
+    {
+        "original_image": "0879.png",
+        "noise_level": 0.15,
+        "noisy_image": "0879_noisy_0.15.png",
+        "denoised_image": "0879_denoised_0.15.png"
+    },
+    {
+        "original_image": "0879.png",
+        "noise_level": 0.2,
+        "noisy_image": "0879_noisy_0.2.png",
+        "denoised_image": "0879_denoised_0.2.png"
+    },
+    {
+        "original_image": "0879.png",
+        "noise_level": 0.3,
+        "noisy_image": "0879_noisy_0.3.png",
+        "denoised_image": "0879_denoised_0.3.png"
+    },
+    {
+        "original_image": "0879.png",
+        "noise_level": 0.4,
+        "noisy_image": "0879_noisy_0.4.png",
+        "denoised_image": "0879_denoised_0.4.png"
+    },
+    {
+        "original_image": "0849.png",
+        "noise_level": 0.1,
+        "noisy_image": "0849_noisy_0.1.png",
+        "denoised_image": "0849_denoised_0.1.png"
+    },
+    {
+        "original_image": "0849.png",
+        "noise_level": 0.15,
+        "noisy_image": "0849_noisy_0.15.png",
+        "denoised_image": "0849_denoised_0.15.png"
+    },
+    {
+        "original_image": "0849.png",
+        "noise_level": 0.2,
+        "noisy_image": "0849_noisy_0.2.png",
+        "denoised_image": "0849_denoised_0.2.png"
+    },
+    {
+        "original_image": "0849.png",
+        "noise_level": 0.3,
+        "noisy_image": "0849_noisy_0.3.png",
+        "denoised_image": "0849_denoised_0.3.png"
+    },
+    {
+        "original_image": "0849.png",
+        "noise_level": 0.4,
+        "noisy_image": "0849_noisy_0.4.png",
+        "denoised_image": "0849_denoised_0.4.png"
+    },
+    {
+        "original_image": "0846.png",
+        "noise_level": 0.1,
+        "noisy_image": "0846_noisy_0.1.png",
+        "denoised_image": "0846_denoised_0.1.png"
+    },
+    {
+        "original_image": "0846.png",
+        "noise_level": 0.15,
+        "noisy_image": "0846_noisy_0.15.png",
+        "denoised_image": "0846_denoised_0.15.png"
+    },
+    {
+        "original_image": "0846.png",
+        "noise_level": 0.2,
+        "noisy_image": "0846_noisy_0.2.png",
+        "denoised_image": "0846_denoised_0.2.png"
+    },
+    {
+        "original_image": "0846.png",
+        "noise_level": 0.3,
+        "noisy_image": "0846_noisy_0.3.png",
+        "denoised_image": "0846_denoised_0.3.png"
+    },
+    {
+        "original_image": "0846.png",
+        "noise_level": 0.4,
+        "noisy_image": "0846_noisy_0.4.png",
+        "denoised_image": "0846_denoised_0.4.png"
+    }
+]
